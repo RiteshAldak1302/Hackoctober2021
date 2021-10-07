@@ -18,3 +18,11 @@ college: SBGI
 city: Sangli
 
 }
+
+{
+name: Dadang
+username: dadangsetio
+college: ITATS
+city: Surabaya
+
+}

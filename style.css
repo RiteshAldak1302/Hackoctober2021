@@ -89,3 +89,29 @@ body{
     background: url("https://source.unsplash.com/random/1000x1000") center no-repeat;
     background-size: cover;
 }
+
+.doge {
+    animation: 1.5s linear rotate infinite;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  @keyframes rotate {
+      0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  .doge {
+    margin: 10px auto;
+    width: 100px;
+    height: 100px;
+  }
+  .doge img {
+    max-width: 100%;
+  }
