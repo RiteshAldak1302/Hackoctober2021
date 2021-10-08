@@ -18,3 +18,9 @@ college: SBGI
 city: Sangli
 
 }
+{
+name: Kartik
+username: Kats2912
+college: IIIT Sonepat
+city: Amritsar
+}
