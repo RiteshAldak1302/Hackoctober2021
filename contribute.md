@@ -26,3 +26,18 @@ college: ITATS
 city: Surabaya
 
 }
+
+{
+
+name: Kartik
+username: Kats2912
+college: IIIT Sonepat
+city: Amritsar
+}
+
+name: Christeena S Anakkallumkal
+username: ChristeenaS
+college : MITS
+city: Kochi 
+}
+
